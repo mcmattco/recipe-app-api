@@ -1,4 +1,4 @@
-FROM python:3.11.0a6-alpine3.15
+FROM python:3.7-alpine
 MAINTAINER @mcmattco
 
 ENV PYTHONUNBUFFERED 1
